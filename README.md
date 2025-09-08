@@ -2,6 +2,8 @@
 
 A mini 3D editor built with React, Vite, and Three.js (@react-three/fiber + @react-three/drei).
 
+🔗 **Live Demo**: [https://swiftxr-editor.netlify.app/](https://swiftxr-editor.netlify.app/)
+
 ## Features
 
 - Upload and render `.glb` / `.gltf` models
