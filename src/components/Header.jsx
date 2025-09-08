@@ -8,7 +8,7 @@ const Header = ({
 }) => {
   return (
     <div
-      className="flex items-center justify-between p-4 bg-gray-800 border-b border-gray-700 "
+      className="flex items-center justify-between p-4 bg-gray-800 border-b border-gray-700 max-sm:flex-wrap"
       //   style={{ background: "red" }}
     >
       <h1 className="text-2xl font-semibold">SwiftXR Editor</h1>
